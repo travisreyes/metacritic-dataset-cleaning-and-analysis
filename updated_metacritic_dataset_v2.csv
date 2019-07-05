@@ -1,4 +1,4 @@
-,game_title, genre, platforms, developers,release_year,release_month,release_day,average_metascore_ratings
+,game_title,genre,platforms,developers,release_year,release_month,release_day,average_metascore_ratings
 0,Journey,"['Action', 'Platformer', '3D']","['PlayStation 4', 'PC', 'PlayStation 3']",['Tricky Pixels'],2015,7,21,92.0
 1,Celeste,"['Action', 'Platformer', '2D']","['PlayStation 4', 'iPhone/iPad', 'PC', 'Switch', 'Xbox One']",['Matt Makes Games Inc.'],2018,1,25,91.25
 2,INSIDE,"['Action', 'Platformer', '2D']","['PlayStation 4', 'iPhone/iPad', 'PC', 'Switch', 'Xbox One']",['PLAYDEAD'],2016,8,23,90.5
